@@ -20,16 +20,16 @@ Para garantir uma estrutura bem organizada e facilitar o desenvolvimento, foi ad
 
 ### Requisições HTTP Feitas para a API no Postman:
 
-![Requisições no Postman](src\main\resources\public\Requisições_no_Postman.png)
+![Requisições no Postman](src/main/resources/public/Requisicoes_no_Postman.png)
 
 ### Tipos de Ambiente de Configuração Criados:
 
-![Ambientes de Configuração](src\main\resources\public\Tipos_de_Ambiente.png)
+![Ambientes de Configuração](src/main/resources/public/Tipos_de_Ambiente.png)
 
 ### Servidor Executando com Ambiente H2 para Banco de Dados:
 
-![Banco H2 no Console](src\main\resources\public\Banco_H2_Console.png)
+![Banco H2 no Console](src/main/resources/public/Banco_H2_Console.png)
 
 ### Interface PgAdmin para Banco de Dados PostgreSQL no Docker:
 
-![PgAdmin no Docker](src\main\resources\public\PgAdmin_com_Docker.png)
+![PgAdmin no Docker](src/main/resources/public/PgAdmin_com_Docker.png)
